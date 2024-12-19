@@ -1,0 +1,34 @@
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.exe
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.deps.json
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.runtimeconfig.json
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.dll
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.pdb
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.Form1.resources
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.Properties.Resources.resources
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.AssemblyInfo.cs
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.dll
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\refint\RockPaperScissors.dll
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.pdb
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.genruntimeconfig.cache
+C:\Users\archi\OneDrive - Conestoga College\Desktop\Programs\Level-3 of CPA\PROG2370\Final Project\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\ref\RockPaperScissors.dll
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.exe
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.deps.json
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.runtimeconfig.json
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.dll
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\bin\Debug\net8.0-windows\RockPaperScissors.pdb
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.Form1.resources
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.Properties.Resources.resources
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.AssemblyInfo.cs
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.dll
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\refint\RockPaperScissors.dll
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.pdb
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\RockPaperScissors.genruntimeconfig.cache
+C:\Users\yatri\Desktop\RockPaperScissors\RockPaperScissors\RockPaperScissors\obj\Debug\net8.0-windows\ref\RockPaperScissors.dll
